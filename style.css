@@ -48,7 +48,8 @@ header li a {
 /* *********************imagePrincipale********************** */
 #imagePrincipale {
   padding-top: 60px;
-  background: url(media/photoPrincipale.jpg) no-repeat fixed 20% 20%;
+  background: url(https://previews.123rf.com/images/gavrilichev/gavrilichev1411/gavrilichev141100103/33811100-free-computer-hotspot-generation-technology.jpg)
+    no-repeat fixed 20% 20%;
   background-size: cover;
   height: 799px;
 }
@@ -83,7 +84,8 @@ h3 {
 }
 #imageSecondaire {
   padding-top: 60px;
-  background: url(media/salle-de-classe-innovante.jpg) no-repeat fixed 20% 20%;
+  background: url(https://previews.123rf.com/images/peshkova/peshkova2301/peshkova230102927/197152552-double-exposure-of-table-with-computer-on-background-and-data-theme-drawing-concept-of-innovation.jpg)
+    no-repeat fixed 20% 20%;
   background-size: cover;
   height: 799px;
 }
@@ -164,4 +166,11 @@ p {
   text-align: center;
   margin-top: 20px;
   color: #333333;
+}
+#imageTertiaire {
+  padding-top: 60px;
+  background: url(https://previews.123rf.com/images/peshkova/peshkova2101/peshkova210112735/162265393-double-exposure-of-man-hands-holding-a-credit-card-and-forex-graph-drawing-stock-trading-and.jpg)
+    no-repeat fixed 20% 20%;
+  background-size: cover;
+  height: 799px;
 }
